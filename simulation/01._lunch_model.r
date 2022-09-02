@@ -37,9 +37,6 @@ library("profvis")
 
 # setwd("...")
 
-setwd("C:/Users/sarah/OneDrive/Faculté/These/Axe2/github_folder/simulation/")
-
-
 tryCatch(dir.create("result"))
 tryCatch(dir.create("./result/inprogress"))
 
